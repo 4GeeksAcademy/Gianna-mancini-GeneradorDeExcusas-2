@@ -1,0 +1,19 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background: rgb(136, 190, 255);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.contenedor{
+    background-color: white;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+.contenedor p {
+    justify-content: center;
+    text-align: center;
+}
